@@ -7,7 +7,7 @@ This simple plugin is easy to use and with it you can create Parallax effect on 
 
 ## Demo
 * Please see **demo.html**
-* For live demo see [JSFiddle](https://jsfiddle.net/gqvuyw8r/)
+* For live demo see [JSFiddle](https://jsfiddle.net/qnhd1awL/)
 
 ## Requirements
 * jQuery 1.9.1+
