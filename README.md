@@ -17,7 +17,7 @@ This simple plugin is easy to use and with it you can create Parallax effect on 
 
 ```
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="path-to-file/MM-Parallax_jQuery-min.js"></script>
+    <script src="path-to-file/CZ-Parallax_jQuery-min.js"></script>
 ```
 
 ## Options
