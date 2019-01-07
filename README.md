@@ -6,10 +6,10 @@ Simple and tiny jQuery plugin for Parallax effect.
 This simple plugin is easy to use and with it you can create Parallax effect on any div you want, with as many layers as you want. There are several options (such as speed, zoom level, axis lock) with which you can adjust the plugin to your needs. Also, it is tiny - just **795 bytes** gzipped or **1.59KB** without gzip (minified version).
 
 ## Demo
-* Please see demo.html
+* Please see **demo.html**
 * For live demo see [JSFiddle](https://jsfiddle.net/gqvuyw8r/)
 
-## Requrements
+## Requirements
 * jQuery 1.9.1+
 
 ## Installation
@@ -17,7 +17,7 @@ This simple plugin is easy to use and with it you can create Parallax effect on 
 
 ```
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="path-to-file/MM-Parallax_jQuery-min.js"></script>
+    <script src="path-to-file/CZ-Parallax_jQuery-min.js"></script>
 ```
 
 ## Options
@@ -34,7 +34,7 @@ This simple plugin is easy to use and with it you can create Parallax effect on 
 * **Data type**: array
 * **Default value**: none
 * **Required**: yes
-* **Example value**: ['https//somewebsite.com/someimage.png', 'https://somewebsite.com/someimage2.png', 'https://somewebsite.com/someimage3.png']
+* **Example value**: ['https://somewebsite.com/someimage.png', 'https://somewebsite.com/someimage2.png', 'https://somewebsite.com/someimage3.png']
 
 ### speed
 * **Description**: Speed of image movement. Foreground and first background layer images will move in this speed, each additional background layer will move slower than the previous one.
@@ -89,8 +89,8 @@ Example code:
     });
 ```
 
-## Licence
+## License
 
-The expandable plugin is licensed under the MIT License (LICENSE.txt).
+The expandable plugin is licensed under the MIT License.
 
-Copyright (c) 2018 Mirza Mašić
+Copyright (c) 2019 Mirza Mašić
