@@ -89,7 +89,7 @@ Example code:
     });
 ```
 
-## Licence
+## License
 
 The expandable plugin is licensed under the MIT License.
 
