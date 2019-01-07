@@ -34,7 +34,7 @@ This simple plugin is easy to use and with it you can create Parallax effect on 
 * **Data type**: array
 * **Default value**: none
 * **Required**: yes
-* **Example value**: ['https//somewebsite.com/someimage.png', 'https://somewebsite.com/someimage2.png', 'https://somewebsite.com/someimage3.png']
+* **Example value**: ['https://somewebsite.com/someimage.png', 'https://somewebsite.com/someimage2.png', 'https://somewebsite.com/someimage3.png']
 
 ### speed
 * **Description**: Speed of image movement. Foreground and first background layer images will move in this speed, each additional background layer will move slower than the previous one.
