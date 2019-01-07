@@ -91,6 +91,6 @@ Example code:
 
 ## Licence
 
-The expandable plugin is licensed under the MIT License (LICENSE.txt).
+The expandable plugin is licensed under the MIT License.
 
 Copyright (c) 2019 Mirza Mašić
