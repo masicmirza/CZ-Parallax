@@ -10,7 +10,7 @@
         bgs: []
         }, options );
         
-        this.each(() => {
+        this.each(function() {
             let _this = $(this);
             let W = _this.width();
             let H = _this.height();
