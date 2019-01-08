@@ -2,12 +2,14 @@
 
 Simple and tiny jQuery plugin for Parallax effect.
 
+![](demo.gif)
+
 ## Description
 This simple plugin is easy to use and with it you can create Parallax effect on any div you want, with as many layers as you want. There are several options (such as speed, zoom level, axis lock) with which you can adjust the plugin to your needs. Also, it is tiny - just **795 bytes** gzipped or **1.59KB** without gzip (minified version).
 
 ## Demo
 * Please see **demo.html**
-* For live demo see [JSFiddle](https://jsfiddle.net/gqvuyw8r/)
+* For live demo see [JSFiddle](https://jsfiddle.net/mirzamasic/qx6bmp89/)
 
 ## Requirements
 * jQuery 1.9.1+
